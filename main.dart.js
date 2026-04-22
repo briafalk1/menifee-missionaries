@@ -90084,7 +90084,7 @@ s.K$=$.af()
 s.F$=0
 this.aE()},
 aeG(){var s=this
-if(s.e.a.a==="stake2024")s.a7(new A.ato(s))
+if(s.e.a.a==="Stake2026!")s.a7(new A.ato(s))
 else s.a7(new A.atp(s))},
 L(a){var s=this
 if(!s.d)return new A.TK(s.e,s.f,s.gaeF(),null)
@@ -94638,7 +94638,7 @@ B.c6=new A.oF(0,"none")
 B.FV=new A.oF(1,"low")
 B.eK=new A.oF(2,"medium")
 B.kj=new A.oF(3,"high")
-B.FW=new A.tg("YOUR_API_KEY","YOUR_APP_ID","YOUR_SENDER_ID","YOUR_PROJECT_ID","YOUR_PROJECT.firebaseapp.com","https://YOUR_PROJECT-default-rtdb.firebaseio.com","YOUR_PROJECT.appspot.com",null,null,null,null,null,null,null)
+B.FW=new A.tg("AIzaSyD9ZRFsVWsntfp8KI4K4WZfyUu6Z-uYr24","1:650145627216:web:cdab82aa2b26e2cd5c2555","650145627216","menifee-missionaries","menifee-missionaries.firebaseapp.com","https://menifee-missionaries-default-rtdb.firebaseio.com","menifee-missionaries.firebasestorage.app",null,null,null,null,null,null,null)
 B.A=new A.w(0,0)
 B.FX=new A.KM(B.A,B.A)
 B.kk=new A.KO(0,"tight")
